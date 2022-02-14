@@ -1,0 +1,29 @@
+{
+  "cSpell.language": "en,en-US,pt,pt-BR",
+  "cSpell.enableFiletypes": [
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!go",
+    "!jade",
+    "!java",
+    "!php",
+    "diff",
+    "dockerfile",
+    "dotenv",
+    "erb",
+    "gemfile",
+    "git-rebase",
+    "graphql",
+    "jsx-tags",
+    "makefile",
+    "powershell",
+    "ruby",
+    "shellscript",
+    "source.css.jsx.styled",
+    "source.css.styled",
+    "sql",
+    "vue",
+    "xml"
+  ]
+}
